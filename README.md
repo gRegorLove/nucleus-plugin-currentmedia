@@ -3,13 +3,7 @@ CurrentMedia Nucleus Plugin
 
 Nucleus CMS plugin to search Amazon and display the music, book, movie, or video game that you are currently enjoying.
 
-*******************************************************************
-*******************************************************************
-***                                                             ***
-*** Please read this ENTIRE file before contacting for support. ***
-***                                                             ***
-*******************************************************************
-*******************************************************************
+__Please read this ENTIRE file before contacting for support.__
 
 ... CONTENTS ...
  1. Introduction
@@ -24,9 +18,8 @@ Nucleus CMS plugin to search Amazon and display the music, book, movie, or video
 10. Thanks
 11. Changelog
 
-
-... INTRODUCTION ...
---------------------
+Introduction
+------------
 
 The CurrentMedia plugin allows you to display a block of the music, book, movie, 
 or video game that you are currently enjoying on each blog post.  You may use
@@ -37,8 +30,8 @@ Associate ID included in the media links, meaning potential commission fees if
 viewers click the links and buy the item themselves.
 
 
-... REQUIREMENTS AND INSTALLATION INSTRUCTIONS ...
---------------------------------------------------
+Requirements And Installation Instructions
+------------------------------------------
 
 This plugin requires Nucleus version 3.5+, and a javascript enabled web browser.
 
@@ -56,8 +49,8 @@ The plugin should be installed now and will show up in the list of installed plu
 (same page).
 
 
-... AMAZON WEB SERVICES ACCOUNT ...
------------------------------------
+Amazon Web Services Account
+---------------------------
 
 This plugin requires an Amazon Web Services account in order to send authenticated
 requests to Amazon's Product Advertising API.
@@ -79,8 +72,8 @@ an inquiry appears to come from AWS or Amazon.com. No one who legitimately repre
 Amazon will ever ask you for your Secret Access Key.
 
 
-... UPGRADE INSTRUCTIONS ...
-----------------------------
+Upgrade Instructions
+--------------------
 
 It is highly recommended that you back up your existing database before performing
 an upgrade.
@@ -123,8 +116,8 @@ Upgrading from v0.3 or earlier:
  the plugin.
 
 
-... PLUGIN OPTIONS ...
-----------------------
+Plugin Options
+--------------
 
 From the plugin page, click "edit options" on the Current Media plugin.
 
@@ -139,8 +132,8 @@ Nucleus project, meaning the Nucleus project will receive any commission fees
 generated unless you change the Associate ID.
 
 
-... USAGE ...
--------------
+Usage
+-----
 
 To display the CurrentMedia block on your Nucleus posts, insert the tag
 <%CurrentMedia%> in the appropriate template(s).  This plugin works per-item,
@@ -184,8 +177,8 @@ you will see the media information along with a link to "Delete This Media."
 To change the media item, simply perform another search and select a new item.
 
 
-... QUESTIONS ...
------------------
+Questions
+---------
 
 Q: I clicked 'delete', why wasn't the media data deleted from the weblog item?
 A: The actual deletion isn't committed until you finalize your edit of the blog post
@@ -196,15 +189,15 @@ A: The actual update of the media item isn't committed until you finalize your
 edit of the blog post by clicking "Edit".
 
 
-... KNOWN ISSUES / TO DO ...
-----------------------------
+Known Issues / To Do
+--------------------
 
 When entering a custom media item, there is not currently a way to select an 
 associated image.
 
 
-... BUG REPORTS / CONTACT ...
------------------------------
+Bug Reports / Contact
+---------------------
 
 2014 UPDATE:
 
@@ -228,8 +221,8 @@ Nucleus forums: http://forum.nucleuscms.org
 My site: http://gregorlove.com
 
 
-... THANKS ...
---------------
+Thanks
+------
 
 Thanks to jaal for the help/inspiration to add different language Amazon sites.
 
@@ -240,8 +233,8 @@ And last but not least, thanks for the users of this plugin for their feedback
 and their patience with me fixing things. :)
 
 
-... CHANGELOG ...
------------------
+Changelog
+---------
 
 Version 1.0
     + Minor code cleanup
