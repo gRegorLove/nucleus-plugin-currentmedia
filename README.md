@@ -1,5 +1,9 @@
 # CurrentMedia Nucleus Plugin
 
+__As of 2015-07-12 I am no longer using Nucleus CMS on my site or maintaining this plugin.__
+
+__If you would like to continue maintaining this plugin's code, I'm willing to transfer ownership of the repository. Pull requests and forks are also welcome.__
+
 Nucleus CMS plugin to search Amazon and display the music, book, movie, or video game that you are currently enjoying.
 
 __Please read this ENTIRE file before contacting for support.__
